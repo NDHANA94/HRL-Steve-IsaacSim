@@ -4,9 +4,9 @@ ROS2 enabled USD file of Steve robot for Isaac-Sim.
 ![alt text](img.png)
 
 ### Setup:
-1. Follow [issac_sim_devcontainer](https://github.com/NDHANA94/isaac_sim_devcontainer.git) repository to setup the devcontainer for Isaac-Sim and open in VS-Code.
+1. Follow [issac_sim_devcontainer](https://github.com/NDHANA94/isaac_sim_devcontainer.git) repository to setup the devcontainer for Isaac-Sim.
 
-2. open devcontainer in `vscode`
+2. Open devcontainer in `vscode`
 
 3. Clone this repository to `/workspace` directory in `devcontainer`.
     ```bash
